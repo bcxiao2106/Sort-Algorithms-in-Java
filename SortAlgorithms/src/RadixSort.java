@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class RadixSort extends SortArray {
+public class RadixSort {
 	private char[][] charArr;
 	private int[] pointerArr;
 	private int maxLength = 21;
